@@ -29,39 +29,39 @@ Puedes ver una demostración en vivo de este proyecto [aquí](https://example.co
 
 Capturas de pantalla de la aplicación.
 
-Página de bienvenida.
+    Página de bienvenida.
 
 ![Wellcome](assets/images/wellcome-screen.jpg)
 
-Página de del juego con el estilo claro.
+    Página de del juego con el estilo claro.
 
 ![Light Mode](assets/images/light-question-screen.jpg)
 
-Página de del juego con el estilo oscuro.
+    Página de del juego con el estilo oscuro.
 
 ![Dark Mode](assets/images/dark-question-screen.jpg)
 
-Página de resultados (0, 1 respuestas correctas)
+    Página de resultados (0, 1 respuestas correctas)
 
 ![Dead Mode Final Screen](assets/images/dead-mode-screen.jpg)
 
-Página de resultados (2, 3 respuestas correctas)
+    Página de resultados (2, 3 respuestas correctas)
 
 ![Angry Mode Final Screen](assets/images/angry-mode-screen.jpg)
 
-Página de resultados (4, 5 respuestas correctas)
+    Página de resultados (4, 5 respuestas correctas)
 
 ![Monkey Mode Final Screen](assets/images/monkey-mode-screen.jpg)
 
-Página de resultados (6, 7 respuestas correctas)
+    Página de resultados (6, 7 respuestas correctas)
 
 ![Buddha Mode Final Screen](assets/images/buddha-mode-screen.jpg)
 
-Página de resultados (8, 9 respuestas correctas)
+    Página de resultados (8, 9 respuestas correctas)
 
 ![Ninja Mode Final Screen](assets/images/ninja-mode-screen.jpg)
 
-Página de resultados (10 respuestas correctas)
+    Página de resultados (10 respuestas correctas)
 
 ![Hero Mode Final Screen](assets/images/hero-mode-screen.jpg)
 
@@ -160,7 +160,23 @@ Para poder realizar esta aplicación he necesitado la tuilización de varios rec
 
 ## Insignias
 
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+Dev Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+Design Skills
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+Build with
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contribuciones
 
@@ -174,4 +190,4 @@ Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, sigue 
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi correo electrónico: codenaud@gmail.com.
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi correo electrónico: [codenaud@gmail.com](mailto:codenaud@gmail.com)
