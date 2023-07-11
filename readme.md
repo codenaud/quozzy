@@ -71,7 +71,7 @@ Este proyecto se encuentra bajo la licencia MIT. Puedes consultar el archivo [LI
 
 ## Crédito
 
-Para poder realizar esta aplicación he necesitado la tuilización de varios recursos.
+Para poder realizar esta aplicación he necesitado la utilización de varios recursos.
 
 ---
 
