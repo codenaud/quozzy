@@ -79,17 +79,17 @@ Para poder realizar esta aplicación he necesitado la utilización de varios rec
     - Web: [URL](https://opentdb.com/api_config.php)
     - Documentation: [DOC](https://opentdb.com/api_config.php)
     - Generate API: APIUrl = https://opentdb.com/api.php?amount=10&type=multiple
-    - You can check de JSON Data with vscode extension --> [Thunder Client]
+    - You can check the JSON Data with vscode extension --> [Thunder Client]
 
     --> Project Information
 
 ---
 
-    - Youtube Tuttorial
+    - Youtube Tutorial
     - Youtube [Channel](New Age Coder)
     - Youtube [Video](https://youtu.be/Z7wuikoPBr0)
     - Github: [User](https://github.com/Rachit-hooda-18)
-    - Donwload Source Code: [Code](https://github.com/Rachit-hooda-18/confetti-animation-using-javasript)
+    - Download Source Code: [Code](https://github.com/Rachit-hooda-18/confetti-animation-using-javasript)
 
     --> Confetti animation using pure Javascript
 
@@ -103,17 +103,17 @@ Para poder realizar esta aplicación he necesitado la utilización de varios rec
 
 ---
 
-    - Youtube Tuttorial
+    - Youtube Tutorial
     - Youtube [Channel](GeekProbin)
     - Youtube [Video](https://youtu.be/-cX5jnQgqSM0)
     - Github: [User](https://github.com/prabinmagar)
-    - Donwload Source Code: [Code](https://github.com/prabinmagar/quiz-app-using-js-with-open-trivia-DB-api)
+    - Download Source Code: [Code](https://github.com/prabinmagar/quiz-app-using-js-with-open-trivia-DB-api)
 
     --> Quiz App Using Vanilla JavaScript | With Open Trivia DB API
 
 ---
 
-    - Youtube Tuttorial
+    - Youtube Tutorial
     - Youtube [Channel](GreatStack)
     - Youtube [Video](https://youtu.be/PBcqGxrr9g8)
 
@@ -121,7 +121,7 @@ Para poder realizar esta aplicación he necesitado la utilización de varios rec
 
 ---
 
-    - Youtube Tuttorial
+    - Youtube Tutorial
     - Youtube [Channel](Benjamin Siegel)
     - Youtube [Video](https://youtu.be/SgJ_femmsfg)
 
@@ -129,21 +129,11 @@ Para poder realizar esta aplicación he necesitado la utilización de varios rec
 
 ---
 
-    - Youtube Tuttorial
+    - Youtube Tutorial
     - Youtube [Channel](Andy's Tech Tutorials)
     - Youtube [Video](https://youtu.be/UY6AeR_M_dU)
     - Github: [User](https://github.com/AndyUGA)
-    - Donwload Source Code: [Code](https://github.com/AndyUGA/trivia-api-tutorial-project)
-
-    --> Open Trivia API and Project Tutorial | React
-
----
-
-    - Youtube Tuttorial
-    - Youtube [Channel](Andy's Tech Tutorials)
-    - Youtube [Video](https://youtu.be/UY6AeR_M_dU)
-    - Github: [User](https://github.com/AndyUGA)
-    - Donwload Source Code: [Code](https://github.com/AndyUGA/trivia-api-tutorial-project)
+    - Download Source Code: [Code](https://github.com/AndyUGA/trivia-api-tutorial-project)
 
     --> Open Trivia API and Project Tutorial | React
 
