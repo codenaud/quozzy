@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- StyleSheets -->
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/transitions.css">
+    <!-- JavaScript -->
+    <script src="../js/main.js" defer></script>
+
+    <title>Quozzy | Open Trivia API Game</title>
+</head>
+
+<body class="fadeInUp-animation">
+    <header>
+        <div class="header">
+            <div class="nav-icon"><img id="navIcon" src="../img/nav-icon-light.svg" alt="Light Navigation Icon">
+            </div>
+            <div class="nav">
+                <div class="switch-theme">
+                    <img id="switchThemeIcon" src="../img/switch-light-mode.svg" alt="Light Mode Icon">
+                </div>
+                <div class="avatar">
+                    <img src="../img/profile-user-image.png" alt="Profile user image">
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="quiz-container">
+        <div class="quiz-header">
+            <div class="logo-name">
+                <h1>Quozzy</h1>
+            </div>
+            <div class="quiz-category">
+                <p id="quizCategory"></p>
+                <span class="quiz-difficulty" id="quizDifficulty"></span>
+
+            </div>
+            <div class="quiz-score">
+                <p>Question number <span id="totalQuestions"> 1 </span> of 10</p>
+            </div>
+        </div>
+        <div class="quiz-body">
+
+            <div class="quiz">
+                <h2 id="question"></h2>
+            </div>
+
+            <ul class="quiz-options">
+                <!-- <li>-- option 1 --</li>
+                <li>-- option 2 --</li>
+                <li>-- option 3 --</li>
+                <li>-- option 4 --</li> -->
+            </ul>
+            <!-- Results -->
+            <div id="helpMessage" class="help-message">
+                <div class="message correct-message hidden">
+                    <img src="../img/success-icon.svg" alt="">
+                    <p>Correct answer!</p>
+                </div>
+                <div class="message incorrect-message hidden">
+                    <img src="../img/danger-icon.svg" alt="">
+                    <p>Wrong answer!</p>
+                </div>
+
+                <div class="message info-message hidden">
+                    <img src="../img/info-icon.svg" alt="">
+                    <p>Please select an option</p>
+                </div>
+            </div>
+        </div>
+        <div class="quiz-footer">
+            <div class="check-answer">
+                <a id="btnCheck" class="btn check">check answers</a>
+                <a id="btnPlay" class="btn hidden">play again</a>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

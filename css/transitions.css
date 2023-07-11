@@ -1,0 +1,25 @@
+/* -------------------------------------------------------------------------- 
+Simple CSS Animation
+    
+    - Tutorial: [DEV](https://dev.to/tiaeastwood/super-simple-css-animation-for-fade-in-on-page-load-2p8m)
+    
+    - Author: [PERSONAL WEB] (https://www.tiaeastwood.com/) 
+              [DEV.IO PROFILE] (https://dev.to/tiaeastwood)
+
+
+----------------------------------------------------------------------------- */
+
+@keyframes fadeInUp {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+  }
+}
+
+.fadeInUp-animation {
+  animation: 1.5s fadeInUp;
+}
