@@ -29,33 +29,41 @@ Puedes ver una demostración en vivo de este proyecto [aquí](https://example.co
 
 Capturas de pantalla de la aplicación.
 
-    ```md
+Página de bienvenida.
+
     ![Wellcome](assets/images/wellcome-screen.jpg)
-    ```
-     ```md
+
+Página de del juego con el estilo claro.
+
     ![Light Mode](assets/images/light-question-screen.jpg)
-    ```
-     ```md
+
+Página de del juego con el estilo oscuro.
+
     ![Dark Mode](assets/images/dark-question-screen.jpg)
-    ```
-     ```md
+
+Página de resultados (0, 1 respuestas correctas)
+
     ![Dead Mode Final Screen](assets/images/dead-mode-screen.jpg)
-    ```
-     ```md
+
+Página de resultados (2, 3 respuestas correctas)
+
     ![Angry Mode Final Screen](assets/images/angry-mode-screen.jpg)
-    ```
-     ```md
+
+Página de resultados (4, 5 respuestas correctas)
+
     ![Monkey Mode Final Screen](assets/images/monkey-mode-screen.jpg)
-    ```
-     ```md
+
+Página de resultados (6, 7 respuestas correctas)
+
     ![Buddha Mode Final Screen](assets/images/buddha-mode-screen.jpg)
-    ```
-     ```md
+
+Página de resultados (8, 9 respuestas correctas)
+
     ![Ninja Mode Final Screen](assets/images/ninja-mode-screen.jpg)
-    ```
-     ```md
+
+Página de resultados (10 respuestas correctas)
+
     ![Hero Mode Final Screen](assets/images/hero-mode-screen.jpg)
-    ```
 
 ## Licencia
 
