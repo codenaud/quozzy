@@ -23,7 +23,7 @@ No requiere ningún tipo de instalación.
 
 ## Demo
 
-Puedes ver una demostración en vivo de este proyecto [aquí](https://example.com).
+Puedes ver una demostración en vivo de este proyecto [aquí](https://codenaud.github.io/quozzy/).
 
 ## Screenshots
 
