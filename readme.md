@@ -65,6 +65,18 @@ Capturas de pantalla de la aplicación.
 
 ![Hero Mode Final Screen](assets/images/hero-mode-screen.jpg)
 
+## Características
+
+- Juego de pregunta y respuestas.
+- Contador de preguntas correctas e incorrectas.
+- Distintos finales según el número de respuestas correctas.
+
+## Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+
 ## Licencia
 
 Este proyecto se encuentra bajo la licencia MIT. Puedes consultar el archivo [LICENSE](LICENSE) para más detalles.
