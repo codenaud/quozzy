@@ -102,6 +102,7 @@ Para poder realizar esta aplicación he necesitado la utilización de varios rec
     - Youtube [Video](https://youtu.be/Z7wuikoPBr0)
     - Github: [User](https://github.com/Rachit-hooda-18)
     - Download Source Code: [Code](https://github.com/Rachit-hooda-18/confetti-animation-using-javasript)
+    - Download the confetti.js file from the GitHub repository: [Code](https://github.com/Rachit-hooda-18/confetti-animation-using-javasript/blob/main/confetti.js)
 
     --> Confetti animation using pure Javascript
 
