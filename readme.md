@@ -31,39 +31,39 @@ Capturas de pantalla de la aplicación.
 
     Página de bienvenida.
 
-![Wellcome](assets/images/wellcome-screen.jpg)
+![Wellcome](assets/wellcome-screen.jpg)
 
     Página de del juego con el estilo claro.
 
-![Light Mode](assets/images/light-question-screen.jpg)
+![Light Mode](assets/light-question-screen.jpg)
 
     Página de del juego con el estilo oscuro.
 
-![Dark Mode](assets/images/dark-question-screen.jpg)
+![Dark Mode](assets/dark-question-screen.jpg)
 
     Página de resultados (0, 1 respuestas correctas)
 
-![Dead Mode Final Screen](assets/images/dead-mode-screen.jpg)
+![Dead Mode Final Screen](assets/dead-mode-screen.jpg)
 
     Página de resultados (2, 3 respuestas correctas)
 
-![Angry Mode Final Screen](assets/images/angry-mode-screen.jpg)
+![Angry Mode Final Screen](assets/angry-mode-screen.jpg)
 
     Página de resultados (4, 5 respuestas correctas)
 
-![Monkey Mode Final Screen](assets/images/monkey-mode-screen.jpg)
+![Monkey Mode Final Screen](assets/monkey-mode-screen.jpg)
 
     Página de resultados (6, 7 respuestas correctas)
 
-![Buddha Mode Final Screen](assets/images/buddha-mode-screen.jpg)
+![Buddha Mode Final Screen](assets/buddha-mode-screen.jpg)
 
     Página de resultados (8, 9 respuestas correctas)
 
-![Ninja Mode Final Screen](assets/images/ninja-mode-screen.jpg)
+![Ninja Mode Final Screen](assets/ninja-mode-screen.jpg)
 
     Página de resultados (10 respuestas correctas)
 
-![Hero Mode Final Screen](assets/images/hero-mode-screen.jpg)
+![Hero Mode Final Screen](assets/hero-mode-screen.jpg)
 
 ## Características
 
